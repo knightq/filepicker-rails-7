@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.2.0 (September, 0&, 2023)
+
+- Support for Rails 7
+
 ## 2.1.0 (October, 07, 2015)
 
 - Support for
